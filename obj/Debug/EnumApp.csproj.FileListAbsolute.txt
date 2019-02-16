@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\bin\Debug\EnumApp.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\bin\Debug\EnumApp.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\bin\Debug\EnumApp.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\obj\Debug\EnumApp.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\obj\Debug\EnumApp.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\obj\Debug\EnumApp.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\enum-days-of-the-week\EnumApp\EnumApp\obj\Debug\EnumApp.pdb
